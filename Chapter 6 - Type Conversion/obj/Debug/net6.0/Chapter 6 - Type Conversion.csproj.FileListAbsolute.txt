@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 6 - Type Conversion/obj/Debug/net6.0/Chapter 6 - Type Conversion.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 6 - Type Conversion/obj/Debug/net6.0/Chapter 6 - Type Conversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 6 - Type Conversion/obj/Debug/net6.0/Chapter 6 - Type Conversion.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 6 - Type Conversion/obj/Debug/net6.0/Chapter 6 - Type Conversion.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 6 - Type Conversion/obj/Debug/net6.0/Chapter 6 - Type Conversion.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 6 - Type Conversion/bin/Debug/net6.0/Chapter 6 - Type Conversion
+/home/keshav/Documents/LearnCS/Chapter 6 - Type Conversion/bin/Debug/net6.0/Chapter 6 - Type Conversion.deps.json
+/home/keshav/Documents/LearnCS/Chapter 6 - Type Conversion/bin/Debug/net6.0/Chapter 6 - Type Conversion.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 6 - Type Conversion/bin/Debug/net6.0/Chapter 6 - Type Conversion.dll
+/home/keshav/Documents/LearnCS/Chapter 6 - Type Conversion/bin/Debug/net6.0/Chapter 6 - Type Conversion.pdb
+/home/keshav/Documents/LearnCS/Chapter 6 - Type Conversion/obj/Debug/net6.0/Chapter 6 - Type Conversion.dll
+/home/keshav/Documents/LearnCS/Chapter 6 - Type Conversion/obj/Debug/net6.0/refint/Chapter 6 - Type Conversion.dll
+/home/keshav/Documents/LearnCS/Chapter 6 - Type Conversion/obj/Debug/net6.0/Chapter 6 - Type Conversion.pdb
+/home/keshav/Documents/LearnCS/Chapter 6 - Type Conversion/obj/Debug/net6.0/Chapter 6 - Type Conversion.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 6 - Type Conversion/obj/Debug/net6.0/ref/Chapter 6 - Type Conversion.dll
