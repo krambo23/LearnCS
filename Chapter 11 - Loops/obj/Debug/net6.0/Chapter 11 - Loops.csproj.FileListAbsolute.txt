@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 11 - Loops/bin/Debug/net6.0/Chapter 11 - Loops
+/home/keshav/Documents/LearnCS/Chapter 11 - Loops/bin/Debug/net6.0/Chapter 11 - Loops.deps.json
+/home/keshav/Documents/LearnCS/Chapter 11 - Loops/bin/Debug/net6.0/Chapter 11 - Loops.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 11 - Loops/bin/Debug/net6.0/Chapter 11 - Loops.dll
+/home/keshav/Documents/LearnCS/Chapter 11 - Loops/bin/Debug/net6.0/Chapter 11 - Loops.pdb
+/home/keshav/Documents/LearnCS/Chapter 11 - Loops/obj/Debug/net6.0/Chapter 11 - Loops.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 11 - Loops/obj/Debug/net6.0/Chapter 11 - Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 11 - Loops/obj/Debug/net6.0/Chapter 11 - Loops.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 11 - Loops/obj/Debug/net6.0/Chapter 11 - Loops.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 11 - Loops/obj/Debug/net6.0/Chapter 11 - Loops.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 11 - Loops/obj/Debug/net6.0/Chapter 11 - Loops.dll
+/home/keshav/Documents/LearnCS/Chapter 11 - Loops/obj/Debug/net6.0/refint/Chapter 11 - Loops.dll
+/home/keshav/Documents/LearnCS/Chapter 11 - Loops/obj/Debug/net6.0/Chapter 11 - Loops.pdb
+/home/keshav/Documents/LearnCS/Chapter 11 - Loops/obj/Debug/net6.0/Chapter 11 - Loops.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 11 - Loops/obj/Debug/net6.0/ref/Chapter 11 - Loops.dll
