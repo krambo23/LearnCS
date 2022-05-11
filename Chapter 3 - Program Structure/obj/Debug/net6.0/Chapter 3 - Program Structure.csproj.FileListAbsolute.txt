@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 3 - Program Structure/bin/Debug/net6.0/Chapter 3 - Program Structure
+/home/keshav/Documents/LearnCS/Chapter 3 - Program Structure/bin/Debug/net6.0/Chapter 3 - Program Structure.deps.json
+/home/keshav/Documents/LearnCS/Chapter 3 - Program Structure/bin/Debug/net6.0/Chapter 3 - Program Structure.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 3 - Program Structure/bin/Debug/net6.0/Chapter 3 - Program Structure.dll
+/home/keshav/Documents/LearnCS/Chapter 3 - Program Structure/bin/Debug/net6.0/Chapter 3 - Program Structure.pdb
+/home/keshav/Documents/LearnCS/Chapter 3 - Program Structure/obj/Debug/net6.0/Chapter 3 - Program Structure.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 3 - Program Structure/obj/Debug/net6.0/Chapter 3 - Program Structure.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 3 - Program Structure/obj/Debug/net6.0/Chapter 3 - Program Structure.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 3 - Program Structure/obj/Debug/net6.0/Chapter 3 - Program Structure.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 3 - Program Structure/obj/Debug/net6.0/Chapter 3 - Program Structure.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 3 - Program Structure/obj/Debug/net6.0/Chapter 3 - Program Structure.dll
+/home/keshav/Documents/LearnCS/Chapter 3 - Program Structure/obj/Debug/net6.0/refint/Chapter 3 - Program Structure.dll
+/home/keshav/Documents/LearnCS/Chapter 3 - Program Structure/obj/Debug/net6.0/Chapter 3 - Program Structure.pdb
+/home/keshav/Documents/LearnCS/Chapter 3 - Program Structure/obj/Debug/net6.0/Chapter 3 - Program Structure.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 3 - Program Structure/obj/Debug/net6.0/ref/Chapter 3 - Program Structure.dll
