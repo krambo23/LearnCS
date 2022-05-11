@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 12 - Encapsulation/bin/Debug/net6.0/Chapter 12 - Encapsulation
+/home/keshav/Documents/LearnCS/Chapter 12 - Encapsulation/bin/Debug/net6.0/Chapter 12 - Encapsulation.deps.json
+/home/keshav/Documents/LearnCS/Chapter 12 - Encapsulation/bin/Debug/net6.0/Chapter 12 - Encapsulation.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 12 - Encapsulation/bin/Debug/net6.0/Chapter 12 - Encapsulation.dll
+/home/keshav/Documents/LearnCS/Chapter 12 - Encapsulation/bin/Debug/net6.0/Chapter 12 - Encapsulation.pdb
+/home/keshav/Documents/LearnCS/Chapter 12 - Encapsulation/obj/Debug/net6.0/Chapter 12 - Encapsulation.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 12 - Encapsulation/obj/Debug/net6.0/Chapter 12 - Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 12 - Encapsulation/obj/Debug/net6.0/Chapter 12 - Encapsulation.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 12 - Encapsulation/obj/Debug/net6.0/Chapter 12 - Encapsulation.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 12 - Encapsulation/obj/Debug/net6.0/Chapter 12 - Encapsulation.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 12 - Encapsulation/obj/Debug/net6.0/Chapter 12 - Encapsulation.dll
+/home/keshav/Documents/LearnCS/Chapter 12 - Encapsulation/obj/Debug/net6.0/refint/Chapter 12 - Encapsulation.dll
+/home/keshav/Documents/LearnCS/Chapter 12 - Encapsulation/obj/Debug/net6.0/Chapter 12 - Encapsulation.pdb
+/home/keshav/Documents/LearnCS/Chapter 12 - Encapsulation/obj/Debug/net6.0/Chapter 12 - Encapsulation.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 12 - Encapsulation/obj/Debug/net6.0/ref/Chapter 12 - Encapsulation.dll
