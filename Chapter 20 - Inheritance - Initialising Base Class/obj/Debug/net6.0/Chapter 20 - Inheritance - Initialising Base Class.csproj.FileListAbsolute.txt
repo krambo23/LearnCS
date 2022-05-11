@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Initialising Base Class/bin/Debug/net6.0/Chapter 20 - Inheritance - Initialising Base Class
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Initialising Base Class/bin/Debug/net6.0/Chapter 20 - Inheritance - Initialising Base Class.deps.json
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Initialising Base Class/bin/Debug/net6.0/Chapter 20 - Inheritance - Initialising Base Class.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Initialising Base Class/bin/Debug/net6.0/Chapter 20 - Inheritance - Initialising Base Class.dll
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Initialising Base Class/bin/Debug/net6.0/Chapter 20 - Inheritance - Initialising Base Class.pdb
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Initialising Base Class/obj/Debug/net6.0/Chapter 20 - Inheritance - Initialising Base Class.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Initialising Base Class/obj/Debug/net6.0/Chapter 20 - Inheritance - Initialising Base Class.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Initialising Base Class/obj/Debug/net6.0/Chapter 20 - Inheritance - Initialising Base Class.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Initialising Base Class/obj/Debug/net6.0/Chapter 20 - Inheritance - Initialising Base Class.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Initialising Base Class/obj/Debug/net6.0/Chapter 20 - Inheritance - Initialising Base Class.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Initialising Base Class/obj/Debug/net6.0/Chapter 20 - Inheritance - Initialising Base Class.dll
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Initialising Base Class/obj/Debug/net6.0/refint/Chapter 20 - Inheritance - Initialising Base Class.dll
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Initialising Base Class/obj/Debug/net6.0/Chapter 20 - Inheritance - Initialising Base Class.pdb
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Initialising Base Class/obj/Debug/net6.0/Chapter 20 - Inheritance - Initialising Base Class.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Initialising Base Class/obj/Debug/net6.0/ref/Chapter 20 - Inheritance - Initialising Base Class.dll

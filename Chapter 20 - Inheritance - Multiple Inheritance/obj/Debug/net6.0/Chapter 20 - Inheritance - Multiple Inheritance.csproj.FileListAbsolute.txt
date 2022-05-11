@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Multiple Inheritance/obj/Debug/net6.0/Chapter 20 - Inheritance - Multiple Inheritance.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Multiple Inheritance/obj/Debug/net6.0/Chapter 20 - Inheritance - Multiple Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Multiple Inheritance/obj/Debug/net6.0/Chapter 20 - Inheritance - Multiple Inheritance.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Multiple Inheritance/obj/Debug/net6.0/Chapter 20 - Inheritance - Multiple Inheritance.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Multiple Inheritance/obj/Debug/net6.0/Chapter 20 - Inheritance - Multiple Inheritance.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Multiple Inheritance/bin/Debug/net6.0/Chapter 20 - Inheritance - Multiple Inheritance
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Multiple Inheritance/bin/Debug/net6.0/Chapter 20 - Inheritance - Multiple Inheritance.deps.json
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Multiple Inheritance/bin/Debug/net6.0/Chapter 20 - Inheritance - Multiple Inheritance.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Multiple Inheritance/bin/Debug/net6.0/Chapter 20 - Inheritance - Multiple Inheritance.dll
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Multiple Inheritance/bin/Debug/net6.0/Chapter 20 - Inheritance - Multiple Inheritance.pdb
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Multiple Inheritance/obj/Debug/net6.0/Chapter 20 - Inheritance - Multiple Inheritance.dll
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Multiple Inheritance/obj/Debug/net6.0/refint/Chapter 20 - Inheritance - Multiple Inheritance.dll
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Multiple Inheritance/obj/Debug/net6.0/Chapter 20 - Inheritance - Multiple Inheritance.pdb
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Multiple Inheritance/obj/Debug/net6.0/Chapter 20 - Inheritance - Multiple Inheritance.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance - Multiple Inheritance/obj/Debug/net6.0/ref/Chapter 20 - Inheritance - Multiple Inheritance.dll

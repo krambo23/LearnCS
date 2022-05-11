@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance/bin/Debug/net6.0/Chapter 20 - Inheritance
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance/bin/Debug/net6.0/Chapter 20 - Inheritance.deps.json
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance/bin/Debug/net6.0/Chapter 20 - Inheritance.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance/bin/Debug/net6.0/Chapter 20 - Inheritance.dll
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance/bin/Debug/net6.0/Chapter 20 - Inheritance.pdb
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance/obj/Debug/net6.0/Chapter 20 - Inheritance.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance/obj/Debug/net6.0/Chapter 20 - Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance/obj/Debug/net6.0/Chapter 20 - Inheritance.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance/obj/Debug/net6.0/Chapter 20 - Inheritance.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance/obj/Debug/net6.0/Chapter 20 - Inheritance.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance/obj/Debug/net6.0/Chapter 20 - Inheritance.dll
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance/obj/Debug/net6.0/refint/Chapter 20 - Inheritance.dll
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance/obj/Debug/net6.0/Chapter 20 - Inheritance.pdb
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance/obj/Debug/net6.0/Chapter 20 - Inheritance.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 20 - Inheritance/obj/Debug/net6.0/ref/Chapter 20 - Inheritance.dll
