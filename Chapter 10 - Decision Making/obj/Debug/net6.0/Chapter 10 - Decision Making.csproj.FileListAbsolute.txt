@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 10 - Decision Making/bin/Debug/net6.0/Chapter 10 - Decision Making
+/home/keshav/Documents/LearnCS/Chapter 10 - Decision Making/bin/Debug/net6.0/Chapter 10 - Decision Making.deps.json
+/home/keshav/Documents/LearnCS/Chapter 10 - Decision Making/bin/Debug/net6.0/Chapter 10 - Decision Making.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 10 - Decision Making/bin/Debug/net6.0/Chapter 10 - Decision Making.dll
+/home/keshav/Documents/LearnCS/Chapter 10 - Decision Making/bin/Debug/net6.0/Chapter 10 - Decision Making.pdb
+/home/keshav/Documents/LearnCS/Chapter 10 - Decision Making/obj/Debug/net6.0/Chapter 10 - Decision Making.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 10 - Decision Making/obj/Debug/net6.0/Chapter 10 - Decision Making.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 10 - Decision Making/obj/Debug/net6.0/Chapter 10 - Decision Making.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 10 - Decision Making/obj/Debug/net6.0/Chapter 10 - Decision Making.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 10 - Decision Making/obj/Debug/net6.0/Chapter 10 - Decision Making.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 10 - Decision Making/obj/Debug/net6.0/Chapter 10 - Decision Making.dll
+/home/keshav/Documents/LearnCS/Chapter 10 - Decision Making/obj/Debug/net6.0/refint/Chapter 10 - Decision Making.dll
+/home/keshav/Documents/LearnCS/Chapter 10 - Decision Making/obj/Debug/net6.0/Chapter 10 - Decision Making.pdb
+/home/keshav/Documents/LearnCS/Chapter 10 - Decision Making/obj/Debug/net6.0/Chapter 10 - Decision Making.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 10 - Decision Making/obj/Debug/net6.0/ref/Chapter 10 - Decision Making.dll
