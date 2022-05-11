@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 14 - Nullables/bin/Debug/net6.0/Chapter 14 - Nullables
+/home/keshav/Documents/LearnCS/Chapter 14 - Nullables/bin/Debug/net6.0/Chapter 14 - Nullables.deps.json
+/home/keshav/Documents/LearnCS/Chapter 14 - Nullables/bin/Debug/net6.0/Chapter 14 - Nullables.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 14 - Nullables/bin/Debug/net6.0/Chapter 14 - Nullables.dll
+/home/keshav/Documents/LearnCS/Chapter 14 - Nullables/bin/Debug/net6.0/Chapter 14 - Nullables.pdb
+/home/keshav/Documents/LearnCS/Chapter 14 - Nullables/obj/Debug/net6.0/Chapter 14 - Nullables.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 14 - Nullables/obj/Debug/net6.0/Chapter 14 - Nullables.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 14 - Nullables/obj/Debug/net6.0/Chapter 14 - Nullables.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 14 - Nullables/obj/Debug/net6.0/Chapter 14 - Nullables.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 14 - Nullables/obj/Debug/net6.0/Chapter 14 - Nullables.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 14 - Nullables/obj/Debug/net6.0/Chapter 14 - Nullables.dll
+/home/keshav/Documents/LearnCS/Chapter 14 - Nullables/obj/Debug/net6.0/refint/Chapter 14 - Nullables.dll
+/home/keshav/Documents/LearnCS/Chapter 14 - Nullables/obj/Debug/net6.0/Chapter 14 - Nullables.pdb
+/home/keshav/Documents/LearnCS/Chapter 14 - Nullables/obj/Debug/net6.0/Chapter 14 - Nullables.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 14 - Nullables/obj/Debug/net6.0/ref/Chapter 14 - Nullables.dll
