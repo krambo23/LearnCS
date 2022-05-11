@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 16 - Strings/bin/Debug/net6.0/Chapter 16 - Strings
+/home/keshav/Documents/LearnCS/Chapter 16 - Strings/bin/Debug/net6.0/Chapter 16 - Strings.deps.json
+/home/keshav/Documents/LearnCS/Chapter 16 - Strings/bin/Debug/net6.0/Chapter 16 - Strings.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 16 - Strings/bin/Debug/net6.0/Chapter 16 - Strings.dll
+/home/keshav/Documents/LearnCS/Chapter 16 - Strings/bin/Debug/net6.0/Chapter 16 - Strings.pdb
+/home/keshav/Documents/LearnCS/Chapter 16 - Strings/obj/Debug/net6.0/Chapter 16 - Strings.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 16 - Strings/obj/Debug/net6.0/Chapter 16 - Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 16 - Strings/obj/Debug/net6.0/Chapter 16 - Strings.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 16 - Strings/obj/Debug/net6.0/Chapter 16 - Strings.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 16 - Strings/obj/Debug/net6.0/Chapter 16 - Strings.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 16 - Strings/obj/Debug/net6.0/Chapter 16 - Strings.dll
+/home/keshav/Documents/LearnCS/Chapter 16 - Strings/obj/Debug/net6.0/refint/Chapter 16 - Strings.dll
+/home/keshav/Documents/LearnCS/Chapter 16 - Strings/obj/Debug/net6.0/Chapter 16 - Strings.pdb
+/home/keshav/Documents/LearnCS/Chapter 16 - Strings/obj/Debug/net6.0/Chapter 16 - Strings.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 16 - Strings/obj/Debug/net6.0/ref/Chapter 16 - Strings.dll
