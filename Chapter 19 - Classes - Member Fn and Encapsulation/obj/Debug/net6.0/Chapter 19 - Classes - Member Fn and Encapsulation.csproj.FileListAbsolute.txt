@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Member Fn and Encapsulation/bin/Debug/net6.0/Chapter 19 - Classes - Member Fn and Encapsulation
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Member Fn and Encapsulation/bin/Debug/net6.0/Chapter 19 - Classes - Member Fn and Encapsulation.deps.json
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Member Fn and Encapsulation/bin/Debug/net6.0/Chapter 19 - Classes - Member Fn and Encapsulation.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Member Fn and Encapsulation/bin/Debug/net6.0/Chapter 19 - Classes - Member Fn and Encapsulation.dll
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Member Fn and Encapsulation/bin/Debug/net6.0/Chapter 19 - Classes - Member Fn and Encapsulation.pdb
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Member Fn and Encapsulation/obj/Debug/net6.0/Chapter 19 - Classes - Member Fn and Encapsulation.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Member Fn and Encapsulation/obj/Debug/net6.0/Chapter 19 - Classes - Member Fn and Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Member Fn and Encapsulation/obj/Debug/net6.0/Chapter 19 - Classes - Member Fn and Encapsulation.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Member Fn and Encapsulation/obj/Debug/net6.0/Chapter 19 - Classes - Member Fn and Encapsulation.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Member Fn and Encapsulation/obj/Debug/net6.0/Chapter 19 - Classes - Member Fn and Encapsulation.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Member Fn and Encapsulation/obj/Debug/net6.0/Chapter 19 - Classes - Member Fn and Encapsulation.dll
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Member Fn and Encapsulation/obj/Debug/net6.0/refint/Chapter 19 - Classes - Member Fn and Encapsulation.dll
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Member Fn and Encapsulation/obj/Debug/net6.0/Chapter 19 - Classes - Member Fn and Encapsulation.pdb
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Member Fn and Encapsulation/obj/Debug/net6.0/Chapter 19 - Classes - Member Fn and Encapsulation.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Member Fn and Encapsulation/obj/Debug/net6.0/ref/Chapter 19 - Classes - Member Fn and Encapsulation.dll

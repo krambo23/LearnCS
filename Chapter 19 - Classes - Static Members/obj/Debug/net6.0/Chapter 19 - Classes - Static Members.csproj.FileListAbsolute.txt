@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Static Members/bin/Debug/net6.0/Chapter 19 - Classes - Static Members
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Static Members/bin/Debug/net6.0/Chapter 19 - Classes - Static Members.deps.json
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Static Members/bin/Debug/net6.0/Chapter 19 - Classes - Static Members.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Static Members/bin/Debug/net6.0/Chapter 19 - Classes - Static Members.dll
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Static Members/bin/Debug/net6.0/Chapter 19 - Classes - Static Members.pdb
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Static Members/obj/Debug/net6.0/Chapter 19 - Classes - Static Members.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Static Members/obj/Debug/net6.0/Chapter 19 - Classes - Static Members.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Static Members/obj/Debug/net6.0/Chapter 19 - Classes - Static Members.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Static Members/obj/Debug/net6.0/Chapter 19 - Classes - Static Members.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Static Members/obj/Debug/net6.0/Chapter 19 - Classes - Static Members.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Static Members/obj/Debug/net6.0/Chapter 19 - Classes - Static Members.dll
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Static Members/obj/Debug/net6.0/refint/Chapter 19 - Classes - Static Members.dll
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Static Members/obj/Debug/net6.0/Chapter 19 - Classes - Static Members.pdb
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Static Members/obj/Debug/net6.0/Chapter 19 - Classes - Static Members.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Static Members/obj/Debug/net6.0/ref/Chapter 19 - Classes - Static Members.dll

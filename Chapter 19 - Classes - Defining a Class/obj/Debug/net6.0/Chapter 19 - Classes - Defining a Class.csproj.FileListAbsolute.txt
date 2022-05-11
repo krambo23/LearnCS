@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Defining a Class/bin/Debug/net6.0/Chapter 19 - Classes - Defining a Class
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Defining a Class/bin/Debug/net6.0/Chapter 19 - Classes - Defining a Class.deps.json
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Defining a Class/bin/Debug/net6.0/Chapter 19 - Classes - Defining a Class.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Defining a Class/bin/Debug/net6.0/Chapter 19 - Classes - Defining a Class.dll
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Defining a Class/bin/Debug/net6.0/Chapter 19 - Classes - Defining a Class.pdb
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Defining a Class/obj/Debug/net6.0/Chapter 19 - Classes - Defining a Class.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Defining a Class/obj/Debug/net6.0/Chapter 19 - Classes - Defining a Class.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Defining a Class/obj/Debug/net6.0/Chapter 19 - Classes - Defining a Class.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Defining a Class/obj/Debug/net6.0/Chapter 19 - Classes - Defining a Class.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Defining a Class/obj/Debug/net6.0/Chapter 19 - Classes - Defining a Class.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Defining a Class/obj/Debug/net6.0/Chapter 19 - Classes - Defining a Class.dll
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Defining a Class/obj/Debug/net6.0/refint/Chapter 19 - Classes - Defining a Class.dll
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Defining a Class/obj/Debug/net6.0/Chapter 19 - Classes - Defining a Class.pdb
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Defining a Class/obj/Debug/net6.0/Chapter 19 - Classes - Defining a Class.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Defining a Class/obj/Debug/net6.0/ref/Chapter 19 - Classes - Defining a Class.dll

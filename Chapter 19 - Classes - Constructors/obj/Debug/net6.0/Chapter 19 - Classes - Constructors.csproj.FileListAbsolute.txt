@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Constructors/bin/Debug/net6.0/Chapter 19 - Classes - Constructors
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Constructors/bin/Debug/net6.0/Chapter 19 - Classes - Constructors.deps.json
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Constructors/bin/Debug/net6.0/Chapter 19 - Classes - Constructors.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Constructors/bin/Debug/net6.0/Chapter 19 - Classes - Constructors.dll
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Constructors/bin/Debug/net6.0/Chapter 19 - Classes - Constructors.pdb
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Constructors/obj/Debug/net6.0/Chapter 19 - Classes - Constructors.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Constructors/obj/Debug/net6.0/Chapter 19 - Classes - Constructors.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Constructors/obj/Debug/net6.0/Chapter 19 - Classes - Constructors.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Constructors/obj/Debug/net6.0/Chapter 19 - Classes - Constructors.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Constructors/obj/Debug/net6.0/Chapter 19 - Classes - Constructors.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Constructors/obj/Debug/net6.0/Chapter 19 - Classes - Constructors.dll
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Constructors/obj/Debug/net6.0/refint/Chapter 19 - Classes - Constructors.dll
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Constructors/obj/Debug/net6.0/Chapter 19 - Classes - Constructors.pdb
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Constructors/obj/Debug/net6.0/Chapter 19 - Classes - Constructors.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 19 - Classes - Constructors/obj/Debug/net6.0/ref/Chapter 19 - Classes - Constructors.dll
