@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 9 - Operators/bin/Debug/net6.0/Chapter 9 - Operators
+/home/keshav/Documents/LearnCS/Chapter 9 - Operators/bin/Debug/net6.0/Chapter 9 - Operators.deps.json
+/home/keshav/Documents/LearnCS/Chapter 9 - Operators/bin/Debug/net6.0/Chapter 9 - Operators.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 9 - Operators/bin/Debug/net6.0/Chapter 9 - Operators.dll
+/home/keshav/Documents/LearnCS/Chapter 9 - Operators/bin/Debug/net6.0/Chapter 9 - Operators.pdb
+/home/keshav/Documents/LearnCS/Chapter 9 - Operators/obj/Debug/net6.0/Chapter 9 - Operators.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 9 - Operators/obj/Debug/net6.0/Chapter 9 - Operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 9 - Operators/obj/Debug/net6.0/Chapter 9 - Operators.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 9 - Operators/obj/Debug/net6.0/Chapter 9 - Operators.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 9 - Operators/obj/Debug/net6.0/Chapter 9 - Operators.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 9 - Operators/obj/Debug/net6.0/Chapter 9 - Operators.dll
+/home/keshav/Documents/LearnCS/Chapter 9 - Operators/obj/Debug/net6.0/refint/Chapter 9 - Operators.dll
+/home/keshav/Documents/LearnCS/Chapter 9 - Operators/obj/Debug/net6.0/Chapter 9 - Operators.pdb
+/home/keshav/Documents/LearnCS/Chapter 9 - Operators/obj/Debug/net6.0/Chapter 9 - Operators.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 9 - Operators/obj/Debug/net6.0/ref/Chapter 9 - Operators.dll
