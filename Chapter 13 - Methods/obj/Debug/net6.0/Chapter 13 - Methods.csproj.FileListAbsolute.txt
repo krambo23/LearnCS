@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 13 - Methods/bin/Debug/net6.0/Chapter 13 - Methods
+/home/keshav/Documents/LearnCS/Chapter 13 - Methods/bin/Debug/net6.0/Chapter 13 - Methods.deps.json
+/home/keshav/Documents/LearnCS/Chapter 13 - Methods/bin/Debug/net6.0/Chapter 13 - Methods.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 13 - Methods/bin/Debug/net6.0/Chapter 13 - Methods.dll
+/home/keshav/Documents/LearnCS/Chapter 13 - Methods/bin/Debug/net6.0/Chapter 13 - Methods.pdb
+/home/keshav/Documents/LearnCS/Chapter 13 - Methods/obj/Debug/net6.0/Chapter 13 - Methods.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 13 - Methods/obj/Debug/net6.0/Chapter 13 - Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 13 - Methods/obj/Debug/net6.0/Chapter 13 - Methods.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 13 - Methods/obj/Debug/net6.0/Chapter 13 - Methods.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 13 - Methods/obj/Debug/net6.0/Chapter 13 - Methods.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 13 - Methods/obj/Debug/net6.0/Chapter 13 - Methods.dll
+/home/keshav/Documents/LearnCS/Chapter 13 - Methods/obj/Debug/net6.0/refint/Chapter 13 - Methods.dll
+/home/keshav/Documents/LearnCS/Chapter 13 - Methods/obj/Debug/net6.0/Chapter 13 - Methods.pdb
+/home/keshav/Documents/LearnCS/Chapter 13 - Methods/obj/Debug/net6.0/Chapter 13 - Methods.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 13 - Methods/obj/Debug/net6.0/ref/Chapter 13 - Methods.dll
