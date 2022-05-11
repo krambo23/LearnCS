@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 18 - Enums/bin/Debug/net6.0/Chapter 18 - Enums
+/home/keshav/Documents/LearnCS/Chapter 18 - Enums/bin/Debug/net6.0/Chapter 18 - Enums.deps.json
+/home/keshav/Documents/LearnCS/Chapter 18 - Enums/bin/Debug/net6.0/Chapter 18 - Enums.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 18 - Enums/bin/Debug/net6.0/Chapter 18 - Enums.dll
+/home/keshav/Documents/LearnCS/Chapter 18 - Enums/bin/Debug/net6.0/Chapter 18 - Enums.pdb
+/home/keshav/Documents/LearnCS/Chapter 18 - Enums/obj/Debug/net6.0/Chapter 18 - Enums.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 18 - Enums/obj/Debug/net6.0/Chapter 18 - Enums.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 18 - Enums/obj/Debug/net6.0/Chapter 18 - Enums.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 18 - Enums/obj/Debug/net6.0/Chapter 18 - Enums.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 18 - Enums/obj/Debug/net6.0/Chapter 18 - Enums.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 18 - Enums/obj/Debug/net6.0/Chapter 18 - Enums.dll
+/home/keshav/Documents/LearnCS/Chapter 18 - Enums/obj/Debug/net6.0/refint/Chapter 18 - Enums.dll
+/home/keshav/Documents/LearnCS/Chapter 18 - Enums/obj/Debug/net6.0/Chapter 18 - Enums.pdb
+/home/keshav/Documents/LearnCS/Chapter 18 - Enums/obj/Debug/net6.0/Chapter 18 - Enums.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 18 - Enums/obj/Debug/net6.0/ref/Chapter 18 - Enums.dll
