@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 8 - Constants and Literals/bin/Debug/net6.0/Chapter 8 - Constants and Literals
+/home/keshav/Documents/LearnCS/Chapter 8 - Constants and Literals/bin/Debug/net6.0/Chapter 8 - Constants and Literals.deps.json
+/home/keshav/Documents/LearnCS/Chapter 8 - Constants and Literals/bin/Debug/net6.0/Chapter 8 - Constants and Literals.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 8 - Constants and Literals/bin/Debug/net6.0/Chapter 8 - Constants and Literals.dll
+/home/keshav/Documents/LearnCS/Chapter 8 - Constants and Literals/bin/Debug/net6.0/Chapter 8 - Constants and Literals.pdb
+/home/keshav/Documents/LearnCS/Chapter 8 - Constants and Literals/obj/Debug/net6.0/Chapter 8 - Constants and Literals.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 8 - Constants and Literals/obj/Debug/net6.0/Chapter 8 - Constants and Literals.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 8 - Constants and Literals/obj/Debug/net6.0/Chapter 8 - Constants and Literals.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 8 - Constants and Literals/obj/Debug/net6.0/Chapter 8 - Constants and Literals.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 8 - Constants and Literals/obj/Debug/net6.0/Chapter 8 - Constants and Literals.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 8 - Constants and Literals/obj/Debug/net6.0/Chapter 8 - Constants and Literals.dll
+/home/keshav/Documents/LearnCS/Chapter 8 - Constants and Literals/obj/Debug/net6.0/refint/Chapter 8 - Constants and Literals.dll
+/home/keshav/Documents/LearnCS/Chapter 8 - Constants and Literals/obj/Debug/net6.0/Chapter 8 - Constants and Literals.pdb
+/home/keshav/Documents/LearnCS/Chapter 8 - Constants and Literals/obj/Debug/net6.0/Chapter 8 - Constants and Literals.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 8 - Constants and Literals/obj/Debug/net6.0/ref/Chapter 8 - Constants and Literals.dll
