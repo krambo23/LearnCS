@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 17 - Structures/obj/Debug/net6.0/Chapter 17 - Structures.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 17 - Structures/obj/Debug/net6.0/Chapter 17 - Structures.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 17 - Structures/obj/Debug/net6.0/Chapter 17 - Structures.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 17 - Structures/obj/Debug/net6.0/Chapter 17 - Structures.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 17 - Structures/obj/Debug/net6.0/Chapter 17 - Structures.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 17 - Structures/bin/Debug/net6.0/Chapter 17 - Structures
+/home/keshav/Documents/LearnCS/Chapter 17 - Structures/bin/Debug/net6.0/Chapter 17 - Structures.deps.json
+/home/keshav/Documents/LearnCS/Chapter 17 - Structures/bin/Debug/net6.0/Chapter 17 - Structures.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 17 - Structures/bin/Debug/net6.0/Chapter 17 - Structures.dll
+/home/keshav/Documents/LearnCS/Chapter 17 - Structures/bin/Debug/net6.0/Chapter 17 - Structures.pdb
+/home/keshav/Documents/LearnCS/Chapter 17 - Structures/obj/Debug/net6.0/Chapter 17 - Structures.dll
+/home/keshav/Documents/LearnCS/Chapter 17 - Structures/obj/Debug/net6.0/refint/Chapter 17 - Structures.dll
+/home/keshav/Documents/LearnCS/Chapter 17 - Structures/obj/Debug/net6.0/Chapter 17 - Structures.pdb
+/home/keshav/Documents/LearnCS/Chapter 17 - Structures/obj/Debug/net6.0/Chapter 17 - Structures.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 17 - Structures/obj/Debug/net6.0/ref/Chapter 17 - Structures.dll
