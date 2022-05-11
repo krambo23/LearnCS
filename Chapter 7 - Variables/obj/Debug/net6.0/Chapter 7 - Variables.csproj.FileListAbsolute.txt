@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 7 - Variables/bin/Debug/net6.0/Chapter 7 - Variables
+/home/keshav/Documents/LearnCS/Chapter 7 - Variables/bin/Debug/net6.0/Chapter 7 - Variables.deps.json
+/home/keshav/Documents/LearnCS/Chapter 7 - Variables/bin/Debug/net6.0/Chapter 7 - Variables.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 7 - Variables/bin/Debug/net6.0/Chapter 7 - Variables.dll
+/home/keshav/Documents/LearnCS/Chapter 7 - Variables/bin/Debug/net6.0/Chapter 7 - Variables.pdb
+/home/keshav/Documents/LearnCS/Chapter 7 - Variables/obj/Debug/net6.0/Chapter 7 - Variables.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 7 - Variables/obj/Debug/net6.0/Chapter 7 - Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 7 - Variables/obj/Debug/net6.0/Chapter 7 - Variables.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 7 - Variables/obj/Debug/net6.0/Chapter 7 - Variables.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 7 - Variables/obj/Debug/net6.0/Chapter 7 - Variables.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 7 - Variables/obj/Debug/net6.0/Chapter 7 - Variables.dll
+/home/keshav/Documents/LearnCS/Chapter 7 - Variables/obj/Debug/net6.0/refint/Chapter 7 - Variables.dll
+/home/keshav/Documents/LearnCS/Chapter 7 - Variables/obj/Debug/net6.0/Chapter 7 - Variables.pdb
+/home/keshav/Documents/LearnCS/Chapter 7 - Variables/obj/Debug/net6.0/Chapter 7 - Variables.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 7 - Variables/obj/Debug/net6.0/ref/Chapter 7 - Variables.dll
