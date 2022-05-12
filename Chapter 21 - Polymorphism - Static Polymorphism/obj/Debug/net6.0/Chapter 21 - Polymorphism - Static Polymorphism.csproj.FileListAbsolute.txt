@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 21 - Polymorphism - Static Polymorphism/bin/Debug/net6.0/Chapter 21 - Polymorphism - Static Polymorphism
+/home/keshav/Documents/LearnCS/Chapter 21 - Polymorphism - Static Polymorphism/bin/Debug/net6.0/Chapter 21 - Polymorphism - Static Polymorphism.deps.json
+/home/keshav/Documents/LearnCS/Chapter 21 - Polymorphism - Static Polymorphism/bin/Debug/net6.0/Chapter 21 - Polymorphism - Static Polymorphism.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 21 - Polymorphism - Static Polymorphism/bin/Debug/net6.0/Chapter 21 - Polymorphism - Static Polymorphism.dll
+/home/keshav/Documents/LearnCS/Chapter 21 - Polymorphism - Static Polymorphism/bin/Debug/net6.0/Chapter 21 - Polymorphism - Static Polymorphism.pdb
+/home/keshav/Documents/LearnCS/Chapter 21 - Polymorphism - Static Polymorphism/obj/Debug/net6.0/Chapter 21 - Polymorphism - Static Polymorphism.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 21 - Polymorphism - Static Polymorphism/obj/Debug/net6.0/Chapter 21 - Polymorphism - Static Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 21 - Polymorphism - Static Polymorphism/obj/Debug/net6.0/Chapter 21 - Polymorphism - Static Polymorphism.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 21 - Polymorphism - Static Polymorphism/obj/Debug/net6.0/Chapter 21 - Polymorphism - Static Polymorphism.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 21 - Polymorphism - Static Polymorphism/obj/Debug/net6.0/Chapter 21 - Polymorphism - Static Polymorphism.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 21 - Polymorphism - Static Polymorphism/obj/Debug/net6.0/Chapter 21 - Polymorphism - Static Polymorphism.dll
+/home/keshav/Documents/LearnCS/Chapter 21 - Polymorphism - Static Polymorphism/obj/Debug/net6.0/refint/Chapter 21 - Polymorphism - Static Polymorphism.dll
+/home/keshav/Documents/LearnCS/Chapter 21 - Polymorphism - Static Polymorphism/obj/Debug/net6.0/Chapter 21 - Polymorphism - Static Polymorphism.pdb
+/home/keshav/Documents/LearnCS/Chapter 21 - Polymorphism - Static Polymorphism/obj/Debug/net6.0/Chapter 21 - Polymorphism - Static Polymorphism.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 21 - Polymorphism - Static Polymorphism/obj/Debug/net6.0/ref/Chapter 21 - Polymorphism - Static Polymorphism.dll
