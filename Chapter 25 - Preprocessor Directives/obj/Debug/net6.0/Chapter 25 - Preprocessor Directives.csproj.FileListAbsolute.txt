@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 25 - Preprocessor Directives/bin/Debug/net6.0/Chapter 25 - Preprocessor Directives
+/home/keshav/Documents/LearnCS/Chapter 25 - Preprocessor Directives/bin/Debug/net6.0/Chapter 25 - Preprocessor Directives.deps.json
+/home/keshav/Documents/LearnCS/Chapter 25 - Preprocessor Directives/bin/Debug/net6.0/Chapter 25 - Preprocessor Directives.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 25 - Preprocessor Directives/bin/Debug/net6.0/Chapter 25 - Preprocessor Directives.dll
+/home/keshav/Documents/LearnCS/Chapter 25 - Preprocessor Directives/bin/Debug/net6.0/Chapter 25 - Preprocessor Directives.pdb
+/home/keshav/Documents/LearnCS/Chapter 25 - Preprocessor Directives/obj/Debug/net6.0/Chapter 25 - Preprocessor Directives.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 25 - Preprocessor Directives/obj/Debug/net6.0/Chapter 25 - Preprocessor Directives.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 25 - Preprocessor Directives/obj/Debug/net6.0/Chapter 25 - Preprocessor Directives.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 25 - Preprocessor Directives/obj/Debug/net6.0/Chapter 25 - Preprocessor Directives.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 25 - Preprocessor Directives/obj/Debug/net6.0/Chapter 25 - Preprocessor Directives.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 25 - Preprocessor Directives/obj/Debug/net6.0/Chapter 25 - Preprocessor Directives.dll
+/home/keshav/Documents/LearnCS/Chapter 25 - Preprocessor Directives/obj/Debug/net6.0/refint/Chapter 25 - Preprocessor Directives.dll
+/home/keshav/Documents/LearnCS/Chapter 25 - Preprocessor Directives/obj/Debug/net6.0/Chapter 25 - Preprocessor Directives.pdb
+/home/keshav/Documents/LearnCS/Chapter 25 - Preprocessor Directives/obj/Debug/net6.0/Chapter 25 - Preprocessor Directives.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 25 - Preprocessor Directives/obj/Debug/net6.0/ref/Chapter 25 - Preprocessor Directives.dll
