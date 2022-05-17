@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 23 - Interfaces/bin/Debug/net6.0/Chapter 23 - Interfaces
+/home/keshav/Documents/LearnCS/Chapter 23 - Interfaces/bin/Debug/net6.0/Chapter 23 - Interfaces.deps.json
+/home/keshav/Documents/LearnCS/Chapter 23 - Interfaces/bin/Debug/net6.0/Chapter 23 - Interfaces.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 23 - Interfaces/bin/Debug/net6.0/Chapter 23 - Interfaces.dll
+/home/keshav/Documents/LearnCS/Chapter 23 - Interfaces/bin/Debug/net6.0/Chapter 23 - Interfaces.pdb
+/home/keshav/Documents/LearnCS/Chapter 23 - Interfaces/obj/Debug/net6.0/Chapter 23 - Interfaces.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 23 - Interfaces/obj/Debug/net6.0/Chapter 23 - Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 23 - Interfaces/obj/Debug/net6.0/Chapter 23 - Interfaces.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 23 - Interfaces/obj/Debug/net6.0/Chapter 23 - Interfaces.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 23 - Interfaces/obj/Debug/net6.0/Chapter 23 - Interfaces.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 23 - Interfaces/obj/Debug/net6.0/Chapter 23 - Interfaces.dll
+/home/keshav/Documents/LearnCS/Chapter 23 - Interfaces/obj/Debug/net6.0/refint/Chapter 23 - Interfaces.dll
+/home/keshav/Documents/LearnCS/Chapter 23 - Interfaces/obj/Debug/net6.0/Chapter 23 - Interfaces.pdb
+/home/keshav/Documents/LearnCS/Chapter 23 - Interfaces/obj/Debug/net6.0/Chapter 23 - Interfaces.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 23 - Interfaces/obj/Debug/net6.0/ref/Chapter 23 - Interfaces.dll
