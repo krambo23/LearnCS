@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 28 - File IO/bin/Debug/net6.0/Chapter 28 - File IO
+/home/keshav/Documents/LearnCS/Chapter 28 - File IO/bin/Debug/net6.0/Chapter 28 - File IO.deps.json
+/home/keshav/Documents/LearnCS/Chapter 28 - File IO/bin/Debug/net6.0/Chapter 28 - File IO.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 28 - File IO/bin/Debug/net6.0/Chapter 28 - File IO.dll
+/home/keshav/Documents/LearnCS/Chapter 28 - File IO/bin/Debug/net6.0/Chapter 28 - File IO.pdb
+/home/keshav/Documents/LearnCS/Chapter 28 - File IO/obj/Debug/net6.0/Chapter 28 - File IO.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 28 - File IO/obj/Debug/net6.0/Chapter 28 - File IO.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 28 - File IO/obj/Debug/net6.0/Chapter 28 - File IO.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 28 - File IO/obj/Debug/net6.0/Chapter 28 - File IO.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 28 - File IO/obj/Debug/net6.0/Chapter 28 - File IO.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 28 - File IO/obj/Debug/net6.0/Chapter 28 - File IO.dll
+/home/keshav/Documents/LearnCS/Chapter 28 - File IO/obj/Debug/net6.0/refint/Chapter 28 - File IO.dll
+/home/keshav/Documents/LearnCS/Chapter 28 - File IO/obj/Debug/net6.0/Chapter 28 - File IO.pdb
+/home/keshav/Documents/LearnCS/Chapter 28 - File IO/obj/Debug/net6.0/Chapter 28 - File IO.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 28 - File IO/obj/Debug/net6.0/ref/Chapter 28 - File IO.dll
