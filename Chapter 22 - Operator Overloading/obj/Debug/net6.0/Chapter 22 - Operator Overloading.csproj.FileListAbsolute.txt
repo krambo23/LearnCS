@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 22 - Operator Overloading/bin/Debug/net6.0/Chapter 22 - Operator Overloading
+/home/keshav/Documents/LearnCS/Chapter 22 - Operator Overloading/bin/Debug/net6.0/Chapter 22 - Operator Overloading.deps.json
+/home/keshav/Documents/LearnCS/Chapter 22 - Operator Overloading/bin/Debug/net6.0/Chapter 22 - Operator Overloading.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 22 - Operator Overloading/bin/Debug/net6.0/Chapter 22 - Operator Overloading.dll
+/home/keshav/Documents/LearnCS/Chapter 22 - Operator Overloading/bin/Debug/net6.0/Chapter 22 - Operator Overloading.pdb
+/home/keshav/Documents/LearnCS/Chapter 22 - Operator Overloading/obj/Debug/net6.0/Chapter 22 - Operator Overloading.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 22 - Operator Overloading/obj/Debug/net6.0/Chapter 22 - Operator Overloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 22 - Operator Overloading/obj/Debug/net6.0/Chapter 22 - Operator Overloading.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 22 - Operator Overloading/obj/Debug/net6.0/Chapter 22 - Operator Overloading.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 22 - Operator Overloading/obj/Debug/net6.0/Chapter 22 - Operator Overloading.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 22 - Operator Overloading/obj/Debug/net6.0/Chapter 22 - Operator Overloading.dll
+/home/keshav/Documents/LearnCS/Chapter 22 - Operator Overloading/obj/Debug/net6.0/refint/Chapter 22 - Operator Overloading.dll
+/home/keshav/Documents/LearnCS/Chapter 22 - Operator Overloading/obj/Debug/net6.0/Chapter 22 - Operator Overloading.pdb
+/home/keshav/Documents/LearnCS/Chapter 22 - Operator Overloading/obj/Debug/net6.0/Chapter 22 - Operator Overloading.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 22 - Operator Overloading/obj/Debug/net6.0/ref/Chapter 22 - Operator Overloading.dll
