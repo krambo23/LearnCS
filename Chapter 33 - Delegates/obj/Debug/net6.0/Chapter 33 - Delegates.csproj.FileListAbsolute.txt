@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 33 - Delegates/obj/Debug/net6.0/Chapter 33 - Delegates.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 33 - Delegates/obj/Debug/net6.0/Chapter 33 - Delegates.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 33 - Delegates/obj/Debug/net6.0/Chapter 33 - Delegates.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 33 - Delegates/obj/Debug/net6.0/Chapter 33 - Delegates.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 33 - Delegates/obj/Debug/net6.0/Chapter 33 - Delegates.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 33 - Delegates/bin/Debug/net6.0/Chapter 33 - Delegates
+/home/keshav/Documents/LearnCS/Chapter 33 - Delegates/bin/Debug/net6.0/Chapter 33 - Delegates.deps.json
+/home/keshav/Documents/LearnCS/Chapter 33 - Delegates/bin/Debug/net6.0/Chapter 33 - Delegates.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 33 - Delegates/bin/Debug/net6.0/Chapter 33 - Delegates.dll
+/home/keshav/Documents/LearnCS/Chapter 33 - Delegates/bin/Debug/net6.0/Chapter 33 - Delegates.pdb
+/home/keshav/Documents/LearnCS/Chapter 33 - Delegates/obj/Debug/net6.0/Chapter 33 - Delegates.dll
+/home/keshav/Documents/LearnCS/Chapter 33 - Delegates/obj/Debug/net6.0/refint/Chapter 33 - Delegates.dll
+/home/keshav/Documents/LearnCS/Chapter 33 - Delegates/obj/Debug/net6.0/Chapter 33 - Delegates.pdb
+/home/keshav/Documents/LearnCS/Chapter 33 - Delegates/obj/Debug/net6.0/Chapter 33 - Delegates.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 33 - Delegates/obj/Debug/net6.0/ref/Chapter 33 - Delegates.dll
