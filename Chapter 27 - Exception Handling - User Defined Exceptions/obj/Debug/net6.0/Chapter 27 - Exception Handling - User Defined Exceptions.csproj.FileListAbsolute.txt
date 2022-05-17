@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling - User Defined Exceptions/bin/Debug/net6.0/Chapter 27 - Exception Handling - User Defined Exceptions
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling - User Defined Exceptions/bin/Debug/net6.0/Chapter 27 - Exception Handling - User Defined Exceptions.deps.json
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling - User Defined Exceptions/bin/Debug/net6.0/Chapter 27 - Exception Handling - User Defined Exceptions.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling - User Defined Exceptions/bin/Debug/net6.0/Chapter 27 - Exception Handling - User Defined Exceptions.dll
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling - User Defined Exceptions/bin/Debug/net6.0/Chapter 27 - Exception Handling - User Defined Exceptions.pdb
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling - User Defined Exceptions/obj/Debug/net6.0/Chapter 27 - Exception Handling - User Defined Exceptions.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling - User Defined Exceptions/obj/Debug/net6.0/Chapter 27 - Exception Handling - User Defined Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling - User Defined Exceptions/obj/Debug/net6.0/Chapter 27 - Exception Handling - User Defined Exceptions.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling - User Defined Exceptions/obj/Debug/net6.0/Chapter 27 - Exception Handling - User Defined Exceptions.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling - User Defined Exceptions/obj/Debug/net6.0/Chapter 27 - Exception Handling - User Defined Exceptions.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling - User Defined Exceptions/obj/Debug/net6.0/Chapter 27 - Exception Handling - User Defined Exceptions.dll
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling - User Defined Exceptions/obj/Debug/net6.0/refint/Chapter 27 - Exception Handling - User Defined Exceptions.dll
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling - User Defined Exceptions/obj/Debug/net6.0/Chapter 27 - Exception Handling - User Defined Exceptions.pdb
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling - User Defined Exceptions/obj/Debug/net6.0/Chapter 27 - Exception Handling - User Defined Exceptions.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling - User Defined Exceptions/obj/Debug/net6.0/ref/Chapter 27 - Exception Handling - User Defined Exceptions.dll

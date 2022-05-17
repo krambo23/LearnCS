@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling/obj/Debug/net6.0/Chapter 27 - Exception Handling.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling/obj/Debug/net6.0/Chapter 27 - Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling/obj/Debug/net6.0/Chapter 27 - Exception Handling.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling/obj/Debug/net6.0/Chapter 27 - Exception Handling.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling/obj/Debug/net6.0/Chapter 27 - Exception Handling.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling/bin/Debug/net6.0/Chapter 27 - Exception Handling
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling/bin/Debug/net6.0/Chapter 27 - Exception Handling.deps.json
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling/bin/Debug/net6.0/Chapter 27 - Exception Handling.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling/bin/Debug/net6.0/Chapter 27 - Exception Handling.dll
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling/bin/Debug/net6.0/Chapter 27 - Exception Handling.pdb
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling/obj/Debug/net6.0/Chapter 27 - Exception Handling.dll
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling/obj/Debug/net6.0/refint/Chapter 27 - Exception Handling.dll
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling/obj/Debug/net6.0/Chapter 27 - Exception Handling.pdb
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling/obj/Debug/net6.0/Chapter 27 - Exception Handling.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 27 - Exception Handling/obj/Debug/net6.0/ref/Chapter 27 - Exception Handling.dll
