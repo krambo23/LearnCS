@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 29 - Custom Attributes/obj/Debug/net6.0/Chapter 29 - Custom Attributes.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 29 - Custom Attributes/obj/Debug/net6.0/Chapter 29 - Custom Attributes.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 29 - Custom Attributes/obj/Debug/net6.0/Chapter 29 - Custom Attributes.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 29 - Custom Attributes/obj/Debug/net6.0/Chapter 29 - Custom Attributes.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 29 - Custom Attributes/obj/Debug/net6.0/Chapter 29 - Custom Attributes.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 29 - Custom Attributes/bin/Debug/net6.0/Chapter 29 - Custom Attributes
+/home/keshav/Documents/LearnCS/Chapter 29 - Custom Attributes/bin/Debug/net6.0/Chapter 29 - Custom Attributes.deps.json
+/home/keshav/Documents/LearnCS/Chapter 29 - Custom Attributes/bin/Debug/net6.0/Chapter 29 - Custom Attributes.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 29 - Custom Attributes/bin/Debug/net6.0/Chapter 29 - Custom Attributes.dll
+/home/keshav/Documents/LearnCS/Chapter 29 - Custom Attributes/bin/Debug/net6.0/Chapter 29 - Custom Attributes.pdb
+/home/keshav/Documents/LearnCS/Chapter 29 - Custom Attributes/obj/Debug/net6.0/Chapter 29 - Custom Attributes.dll
+/home/keshav/Documents/LearnCS/Chapter 29 - Custom Attributes/obj/Debug/net6.0/refint/Chapter 29 - Custom Attributes.dll
+/home/keshav/Documents/LearnCS/Chapter 29 - Custom Attributes/obj/Debug/net6.0/Chapter 29 - Custom Attributes.pdb
+/home/keshav/Documents/LearnCS/Chapter 29 - Custom Attributes/obj/Debug/net6.0/Chapter 29 - Custom Attributes.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 29 - Custom Attributes/obj/Debug/net6.0/ref/Chapter 29 - Custom Attributes.dll
