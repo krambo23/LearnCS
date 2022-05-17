@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 26 - Regular Expressions/bin/Debug/net6.0/Chapter 26 - Regular Expressions
+/home/keshav/Documents/LearnCS/Chapter 26 - Regular Expressions/bin/Debug/net6.0/Chapter 26 - Regular Expressions.deps.json
+/home/keshav/Documents/LearnCS/Chapter 26 - Regular Expressions/bin/Debug/net6.0/Chapter 26 - Regular Expressions.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 26 - Regular Expressions/bin/Debug/net6.0/Chapter 26 - Regular Expressions.dll
+/home/keshav/Documents/LearnCS/Chapter 26 - Regular Expressions/bin/Debug/net6.0/Chapter 26 - Regular Expressions.pdb
+/home/keshav/Documents/LearnCS/Chapter 26 - Regular Expressions/obj/Debug/net6.0/Chapter 26 - Regular Expressions.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 26 - Regular Expressions/obj/Debug/net6.0/Chapter 26 - Regular Expressions.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 26 - Regular Expressions/obj/Debug/net6.0/Chapter 26 - Regular Expressions.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 26 - Regular Expressions/obj/Debug/net6.0/Chapter 26 - Regular Expressions.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 26 - Regular Expressions/obj/Debug/net6.0/Chapter 26 - Regular Expressions.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 26 - Regular Expressions/obj/Debug/net6.0/Chapter 26 - Regular Expressions.dll
+/home/keshav/Documents/LearnCS/Chapter 26 - Regular Expressions/obj/Debug/net6.0/refint/Chapter 26 - Regular Expressions.dll
+/home/keshav/Documents/LearnCS/Chapter 26 - Regular Expressions/obj/Debug/net6.0/Chapter 26 - Regular Expressions.pdb
+/home/keshav/Documents/LearnCS/Chapter 26 - Regular Expressions/obj/Debug/net6.0/Chapter 26 - Regular Expressions.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 26 - Regular Expressions/obj/Debug/net6.0/ref/Chapter 26 - Regular Expressions.dll
