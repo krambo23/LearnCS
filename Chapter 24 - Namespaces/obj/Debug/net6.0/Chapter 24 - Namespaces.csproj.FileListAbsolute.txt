@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 24 - Namespaces/bin/Debug/net6.0/Chapter 24 - Namespaces
+/home/keshav/Documents/LearnCS/Chapter 24 - Namespaces/bin/Debug/net6.0/Chapter 24 - Namespaces.deps.json
+/home/keshav/Documents/LearnCS/Chapter 24 - Namespaces/bin/Debug/net6.0/Chapter 24 - Namespaces.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 24 - Namespaces/bin/Debug/net6.0/Chapter 24 - Namespaces.dll
+/home/keshav/Documents/LearnCS/Chapter 24 - Namespaces/bin/Debug/net6.0/Chapter 24 - Namespaces.pdb
+/home/keshav/Documents/LearnCS/Chapter 24 - Namespaces/obj/Debug/net6.0/Chapter 24 - Namespaces.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 24 - Namespaces/obj/Debug/net6.0/Chapter 24 - Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 24 - Namespaces/obj/Debug/net6.0/Chapter 24 - Namespaces.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 24 - Namespaces/obj/Debug/net6.0/Chapter 24 - Namespaces.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 24 - Namespaces/obj/Debug/net6.0/Chapter 24 - Namespaces.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 24 - Namespaces/obj/Debug/net6.0/Chapter 24 - Namespaces.dll
+/home/keshav/Documents/LearnCS/Chapter 24 - Namespaces/obj/Debug/net6.0/refint/Chapter 24 - Namespaces.dll
+/home/keshav/Documents/LearnCS/Chapter 24 - Namespaces/obj/Debug/net6.0/Chapter 24 - Namespaces.pdb
+/home/keshav/Documents/LearnCS/Chapter 24 - Namespaces/obj/Debug/net6.0/Chapter 24 - Namespaces.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 24 - Namespaces/obj/Debug/net6.0/ref/Chapter 24 - Namespaces.dll
