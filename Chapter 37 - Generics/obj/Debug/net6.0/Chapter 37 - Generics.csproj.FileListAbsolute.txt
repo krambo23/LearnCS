@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 37 - Generics/bin/Debug/net6.0/Chapter 37 - Generics
+/home/keshav/Documents/LearnCS/Chapter 37 - Generics/bin/Debug/net6.0/Chapter 37 - Generics.deps.json
+/home/keshav/Documents/LearnCS/Chapter 37 - Generics/bin/Debug/net6.0/Chapter 37 - Generics.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 37 - Generics/bin/Debug/net6.0/Chapter 37 - Generics.dll
+/home/keshav/Documents/LearnCS/Chapter 37 - Generics/bin/Debug/net6.0/Chapter 37 - Generics.pdb
+/home/keshav/Documents/LearnCS/Chapter 37 - Generics/obj/Debug/net6.0/Chapter 37 - Generics.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 37 - Generics/obj/Debug/net6.0/Chapter 37 - Generics.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 37 - Generics/obj/Debug/net6.0/Chapter 37 - Generics.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 37 - Generics/obj/Debug/net6.0/Chapter 37 - Generics.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 37 - Generics/obj/Debug/net6.0/Chapter 37 - Generics.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 37 - Generics/obj/Debug/net6.0/Chapter 37 - Generics.dll
+/home/keshav/Documents/LearnCS/Chapter 37 - Generics/obj/Debug/net6.0/refint/Chapter 37 - Generics.dll
+/home/keshav/Documents/LearnCS/Chapter 37 - Generics/obj/Debug/net6.0/Chapter 37 - Generics.pdb
+/home/keshav/Documents/LearnCS/Chapter 37 - Generics/obj/Debug/net6.0/Chapter 37 - Generics.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 37 - Generics/obj/Debug/net6.0/ref/Chapter 37 - Generics.dll
