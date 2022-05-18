@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 35 - Collections/bin/Debug/net6.0/Chapter 35 - Collections
+/home/keshav/Documents/LearnCS/Chapter 35 - Collections/bin/Debug/net6.0/Chapter 35 - Collections.deps.json
+/home/keshav/Documents/LearnCS/Chapter 35 - Collections/bin/Debug/net6.0/Chapter 35 - Collections.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 35 - Collections/bin/Debug/net6.0/Chapter 35 - Collections.dll
+/home/keshav/Documents/LearnCS/Chapter 35 - Collections/bin/Debug/net6.0/Chapter 35 - Collections.pdb
+/home/keshav/Documents/LearnCS/Chapter 35 - Collections/obj/Debug/net6.0/Chapter 35 - Collections.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 35 - Collections/obj/Debug/net6.0/Chapter 35 - Collections.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 35 - Collections/obj/Debug/net6.0/Chapter 35 - Collections.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 35 - Collections/obj/Debug/net6.0/Chapter 35 - Collections.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 35 - Collections/obj/Debug/net6.0/Chapter 35 - Collections.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 35 - Collections/obj/Debug/net6.0/Chapter 35 - Collections.dll
+/home/keshav/Documents/LearnCS/Chapter 35 - Collections/obj/Debug/net6.0/refint/Chapter 35 - Collections.dll
+/home/keshav/Documents/LearnCS/Chapter 35 - Collections/obj/Debug/net6.0/Chapter 35 - Collections.pdb
+/home/keshav/Documents/LearnCS/Chapter 35 - Collections/obj/Debug/net6.0/Chapter 35 - Collections.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 35 - Collections/obj/Debug/net6.0/ref/Chapter 35 - Collections.dll
