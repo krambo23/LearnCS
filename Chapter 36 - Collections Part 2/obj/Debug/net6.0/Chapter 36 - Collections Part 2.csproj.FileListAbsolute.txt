@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 36 - Collections Part 2/bin/Debug/net6.0/Chapter 36 - Collections Part 2
+/home/keshav/Documents/LearnCS/Chapter 36 - Collections Part 2/bin/Debug/net6.0/Chapter 36 - Collections Part 2.deps.json
+/home/keshav/Documents/LearnCS/Chapter 36 - Collections Part 2/bin/Debug/net6.0/Chapter 36 - Collections Part 2.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 36 - Collections Part 2/bin/Debug/net6.0/Chapter 36 - Collections Part 2.dll
+/home/keshav/Documents/LearnCS/Chapter 36 - Collections Part 2/bin/Debug/net6.0/Chapter 36 - Collections Part 2.pdb
+/home/keshav/Documents/LearnCS/Chapter 36 - Collections Part 2/obj/Debug/net6.0/Chapter 36 - Collections Part 2.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 36 - Collections Part 2/obj/Debug/net6.0/Chapter 36 - Collections Part 2.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 36 - Collections Part 2/obj/Debug/net6.0/Chapter 36 - Collections Part 2.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 36 - Collections Part 2/obj/Debug/net6.0/Chapter 36 - Collections Part 2.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 36 - Collections Part 2/obj/Debug/net6.0/Chapter 36 - Collections Part 2.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 36 - Collections Part 2/obj/Debug/net6.0/Chapter 36 - Collections Part 2.dll
+/home/keshav/Documents/LearnCS/Chapter 36 - Collections Part 2/obj/Debug/net6.0/refint/Chapter 36 - Collections Part 2.dll
+/home/keshav/Documents/LearnCS/Chapter 36 - Collections Part 2/obj/Debug/net6.0/Chapter 36 - Collections Part 2.pdb
+/home/keshav/Documents/LearnCS/Chapter 36 - Collections Part 2/obj/Debug/net6.0/Chapter 36 - Collections Part 2.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 36 - Collections Part 2/obj/Debug/net6.0/ref/Chapter 36 - Collections Part 2.dll
