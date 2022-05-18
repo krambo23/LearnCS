@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 34 - Events/bin/Debug/net6.0/Chapter 34 - Events
+/home/keshav/Documents/LearnCS/Chapter 34 - Events/bin/Debug/net6.0/Chapter 34 - Events.deps.json
+/home/keshav/Documents/LearnCS/Chapter 34 - Events/bin/Debug/net6.0/Chapter 34 - Events.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 34 - Events/bin/Debug/net6.0/Chapter 34 - Events.dll
+/home/keshav/Documents/LearnCS/Chapter 34 - Events/bin/Debug/net6.0/Chapter 34 - Events.pdb
+/home/keshav/Documents/LearnCS/Chapter 34 - Events/obj/Debug/net6.0/Chapter 34 - Events.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 34 - Events/obj/Debug/net6.0/Chapter 34 - Events.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 34 - Events/obj/Debug/net6.0/Chapter 34 - Events.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 34 - Events/obj/Debug/net6.0/Chapter 34 - Events.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 34 - Events/obj/Debug/net6.0/Chapter 34 - Events.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 34 - Events/obj/Debug/net6.0/Chapter 34 - Events.dll
+/home/keshav/Documents/LearnCS/Chapter 34 - Events/obj/Debug/net6.0/refint/Chapter 34 - Events.dll
+/home/keshav/Documents/LearnCS/Chapter 34 - Events/obj/Debug/net6.0/Chapter 34 - Events.pdb
+/home/keshav/Documents/LearnCS/Chapter 34 - Events/obj/Debug/net6.0/Chapter 34 - Events.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 34 - Events/obj/Debug/net6.0/ref/Chapter 34 - Events.dll
