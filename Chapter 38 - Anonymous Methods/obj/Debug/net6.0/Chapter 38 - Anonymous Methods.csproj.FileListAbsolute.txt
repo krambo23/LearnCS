@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 38 - Anonymous Methods/bin/Debug/net6.0/Chapter 38 - Anonymous Methods
+/home/keshav/Documents/LearnCS/Chapter 38 - Anonymous Methods/bin/Debug/net6.0/Chapter 38 - Anonymous Methods.deps.json
+/home/keshav/Documents/LearnCS/Chapter 38 - Anonymous Methods/bin/Debug/net6.0/Chapter 38 - Anonymous Methods.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 38 - Anonymous Methods/bin/Debug/net6.0/Chapter 38 - Anonymous Methods.dll
+/home/keshav/Documents/LearnCS/Chapter 38 - Anonymous Methods/bin/Debug/net6.0/Chapter 38 - Anonymous Methods.pdb
+/home/keshav/Documents/LearnCS/Chapter 38 - Anonymous Methods/obj/Debug/net6.0/Chapter 38 - Anonymous Methods.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 38 - Anonymous Methods/obj/Debug/net6.0/Chapter 38 - Anonymous Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 38 - Anonymous Methods/obj/Debug/net6.0/Chapter 38 - Anonymous Methods.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 38 - Anonymous Methods/obj/Debug/net6.0/Chapter 38 - Anonymous Methods.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 38 - Anonymous Methods/obj/Debug/net6.0/Chapter 38 - Anonymous Methods.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 38 - Anonymous Methods/obj/Debug/net6.0/Chapter 38 - Anonymous Methods.dll
+/home/keshav/Documents/LearnCS/Chapter 38 - Anonymous Methods/obj/Debug/net6.0/refint/Chapter 38 - Anonymous Methods.dll
+/home/keshav/Documents/LearnCS/Chapter 38 - Anonymous Methods/obj/Debug/net6.0/Chapter 38 - Anonymous Methods.pdb
+/home/keshav/Documents/LearnCS/Chapter 38 - Anonymous Methods/obj/Debug/net6.0/Chapter 38 - Anonymous Methods.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 38 - Anonymous Methods/obj/Debug/net6.0/ref/Chapter 38 - Anonymous Methods.dll
