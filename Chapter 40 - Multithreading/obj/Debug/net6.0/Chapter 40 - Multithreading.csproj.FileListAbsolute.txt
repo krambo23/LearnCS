@@ -1,0 +1,15 @@
+/home/keshav/Documents/LearnCS/Chapter 40 - Multithreading/bin/Debug/net6.0/Chapter 40 - Multithreading
+/home/keshav/Documents/LearnCS/Chapter 40 - Multithreading/bin/Debug/net6.0/Chapter 40 - Multithreading.deps.json
+/home/keshav/Documents/LearnCS/Chapter 40 - Multithreading/bin/Debug/net6.0/Chapter 40 - Multithreading.runtimeconfig.json
+/home/keshav/Documents/LearnCS/Chapter 40 - Multithreading/bin/Debug/net6.0/Chapter 40 - Multithreading.dll
+/home/keshav/Documents/LearnCS/Chapter 40 - Multithreading/bin/Debug/net6.0/Chapter 40 - Multithreading.pdb
+/home/keshav/Documents/LearnCS/Chapter 40 - Multithreading/obj/Debug/net6.0/Chapter 40 - Multithreading.csproj.AssemblyReference.cache
+/home/keshav/Documents/LearnCS/Chapter 40 - Multithreading/obj/Debug/net6.0/Chapter 40 - Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+/home/keshav/Documents/LearnCS/Chapter 40 - Multithreading/obj/Debug/net6.0/Chapter 40 - Multithreading.AssemblyInfoInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 40 - Multithreading/obj/Debug/net6.0/Chapter 40 - Multithreading.AssemblyInfo.cs
+/home/keshav/Documents/LearnCS/Chapter 40 - Multithreading/obj/Debug/net6.0/Chapter 40 - Multithreading.csproj.CoreCompileInputs.cache
+/home/keshav/Documents/LearnCS/Chapter 40 - Multithreading/obj/Debug/net6.0/Chapter 40 - Multithreading.dll
+/home/keshav/Documents/LearnCS/Chapter 40 - Multithreading/obj/Debug/net6.0/refint/Chapter 40 - Multithreading.dll
+/home/keshav/Documents/LearnCS/Chapter 40 - Multithreading/obj/Debug/net6.0/Chapter 40 - Multithreading.pdb
+/home/keshav/Documents/LearnCS/Chapter 40 - Multithreading/obj/Debug/net6.0/Chapter 40 - Multithreading.genruntimeconfig.cache
+/home/keshav/Documents/LearnCS/Chapter 40 - Multithreading/obj/Debug/net6.0/ref/Chapter 40 - Multithreading.dll
